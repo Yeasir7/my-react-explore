@@ -4,3 +4,14 @@
     padding: 14px;
     border-radius: 12px;
 }
+
+.visited{
+    background-color: aquamarine;
+    color: black;
+}
+
+.not-visited{
+    background-color: blueviolet;
+    color: black;
+}
+
